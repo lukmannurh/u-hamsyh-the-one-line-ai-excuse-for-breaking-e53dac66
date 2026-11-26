@@ -92,3 +92,11 @@ Built and locally verified. NOT committed, pushed, bundled, or submitted — par
   - Same harmless `MODULE_TYPELESS_PACKAGE_JSON` warning as before; output unaffected.
   - Node v24.22.1 locally (grader runs Node 22.23.4; code uses only `node:fs`/`node:path` + TextEncoder/TextDecoder, safe on 22).
 - **Status after revision:** locally verified again. NOT committed, pushed, bundled, or submitted — parent handles that.
+
+## Submission
+
+- Submission: 01a215e9-78dd-75b3-a4bb-d288a7dd9ee2
+- Commit: 2bce10e62d1d8a970b0f6a03567a23743cbf9336
+- Repo: https://github.com/lukmannurh/u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66
+- Claim code: AF-V2YZX-D7R14-7BW70-MV2MM
+- Submitted: 2026-11-26T03:32:49.673Z (parent pipeline)
